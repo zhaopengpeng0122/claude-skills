@@ -2,3 +2,9 @@
 .skills_store_lock.json
 *.pyc
 __pycache__
+
+# 本地专用 skills，不同步到 GitHub
+skill-analysisreport/
+skill-analysisrockrobot/
+skill-analysisrockrobot-doa/
+skill-score-html/
